@@ -41,10 +41,11 @@ streamlit run app.py
 
 ```
 ├── app.py              # Main application
-├── database.sql        # Database with sample data
+├── sample_db_sql.sql        # Database with sample data
 ├── requirements.txt    # Dependencies
 └── README.md          # This file
 ```
+
 
 ## Database
 
